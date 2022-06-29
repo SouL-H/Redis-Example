@@ -40,12 +40,27 @@ Reading message
 subscribe testChannel
 ```
 
-
-
 <p>
     <img src="./img/message.png"  style="width:720px;" alt="Observer">
 
 </p>
+
+
+# Using Redis with NodeJs
+```
+npm install -y
+```
+
+```
+Install Lib
+
+npm install --save redis@3.1.2
+```
+
+
+
+
+
 
 
 ####    Thank You Kablosuzkedi
